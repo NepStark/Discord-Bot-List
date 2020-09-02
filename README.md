@@ -1,3 +1,5 @@
+[![Run on Repl.it](https://repl.it/badge/github/Sank6/Discord-Bot-List)](https://repl.it/github/Sank6/Discord-Bot-List)
+
 # About
 This is a discontinued discord bot list. I still maintain it occasionally, so feel free to use it. There's a [setup guide in the wiki](https://github.com/Sank6/Discord-Bot-List/wiki/Setup-Information) if you're interested. If you have any issues, check the [FAQs](https://github.com/Sank6/Discord-Bot-List/wiki/FAQs) first please.
 
